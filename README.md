@@ -1,3 +1,3 @@
-FooCoin (FOO)
+SecretCoin (SEC)
 
 Blah, blah, blah.
